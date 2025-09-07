@@ -17,7 +17,7 @@ A layout which businesses can use to make thier website's landing page
 - **Tools**: VS Code, Chrome DevTools
 
 ## Link for live website
-
+https://rugved1218.github.io/Landing-Page/
 
 ## Author
 Rugved Bajare - https://github.com/Rugved1218
